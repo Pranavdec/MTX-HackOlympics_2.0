@@ -3,4 +3,8 @@ It is a repository for the submission of the problem statement 1 of the MTX-Hack
 
 
 How To Train and Use The Model:
-To Train The Model There is Train_Model.ipynb file above Just Run It cell by cell to Train and Get ".h5" for Model Deployment.
+To Train The Model:
+Step:1
+  Download Training_Data,Public_Test_Data from The below link
+Step:2
+  There is Train_Model.ipynb file above ,Run It cell by cell to Train and Get ".h5" for Model Deployment.
